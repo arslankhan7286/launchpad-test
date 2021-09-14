@@ -118,6 +118,7 @@ label #cancel {
   font-size: 20px;
   display: inline-block;
   color: #fff;
+  cursor: pointer;
 }
 
 .sidebar ul li:hover a {
